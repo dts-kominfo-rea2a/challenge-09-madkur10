@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  display: flex;
+  margin: 10px 10px 10px 10px;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.card-center {
+  margin: auto;
+}
+
+.fotoCat {
+  width: 120px;
+  border-radius: 99999px;
+}
+
+.fotoProfile {
+  margin-right: 3em;
+}
